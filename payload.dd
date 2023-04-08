@@ -1,0 +1,20 @@
+REM this is a test to see if I can pull this payload
+REM
+REM majoras fury
+
+
+
+
+GUI r
+DELAY 200
+STRING notepad
+DELAY 10
+ENTER
+DELAY 300
+STRING YOU ARE BEING HACKED!
+DELAY 1500
+ALT F4
+
+
+
+
